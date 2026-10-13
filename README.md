@@ -1,84 +1,92 @@
-<!-- Header -->
+<!-- Profile README: keep image URLs in Markdown syntax to avoid HTML attribute parsing issues. -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&amp;height=220&amp;color=0:0B1020,50:172554,100:312E81&amp;text=Aryan%20Sharma&amp;fontColor=FFFFFF&amp;fontSize=52&amp;fontAlignY=40&amp;desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack&amp;descSize=16&amp;descAlignY=62" width="100%" alt="Aryan Sharma — Software Engineer" />
 
-  <p><b>Backend Engineering · Full-Stack Development · Scalable APIs</b></p>
-  <p>Building practical software with a focus on clean architecture, reliability, and maintainability.</p>
+![Aryan Sharma — Software Engineer](https://capsule-render.vercel.app/api?type=wave&color=0:0B1020,50:172554,100:312E81&height=220&section=header&text=Aryan%20Sharma&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Engineering%20%7C%20Full-Stack%20Development&descSize=16&descAlignY=60)
 
-  <a href="https://www.linkedin.com/in/aryan-sharma2002/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://github.com/aryansharma16?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&amp;logo=github" alt="GitHub projects" /></a>
+**Full Stack Software Developer | Node.js · React · TypeScript · PostgreSQL · AWS**
+
+Building production systems, reliable APIs, and full-stack products that solve real business problems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aryan-sharma2002/)
+[![Projects](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github)](https://github.com/aryansharma16?tab=repositories)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AryanDevExpert/)
+
 </div>
 
 ---
 
 ## About
 
-I'm a Software Engineer working on backend systems, APIs, and full-stack applications. I enjoy understanding how systems work end to end—from data modeling and authorization to asynchronous processing and user-facing workflows.
+Full Stack Software Developer with **3.5+ years of experience** building and owning production systems across Node.js, React, Next.js, TypeScript, PostgreSQL, MongoDB, Redis, and AWS.
 
-- **Core technologies:** JavaScript, Node.js, Express, React, MongoDB, REST APIs
-- **Backend interests:** PostgreSQL, Redis, authentication and authorization, background jobs
-- **Currently exploring:** Java, Spring Boot, and microservices through hands-on projects
-- **Learning:** Data structures and algorithms, system design, and distributed systems
+At Masters' Union, I work across multi-tenant access control, analytics APIs, payment workflows, asynchronous jobs, and partner integrations.
+
+- **Backend:** Node.js, Express.js, REST APIs, authentication, RBAC, webhooks, idempotency
+- **Frontend:** React, Next.js, TypeScript, Redux Toolkit, RTK Query
+- **Data and systems:** PostgreSQL, MongoDB, MySQL, Redis, BullMQ, caching, multi-tenancy
+- **Cloud and delivery:** AWS, Docker, Nginx, Vercel, CI/CD
+- **Currently exploring:** Java, Spring Boot, microservices, DSA, and system design
 
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,redux,html,css,tailwind,mongodb,postgres,redis,java,spring,docker,aws,git,github&amp;perline=9" alt="Technology icons" />
+
+![Tech stack](https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,redux,html,css,tailwind,postgres,mongodb,redis,java,spring,docker,aws,git,github&perline=10)
+
 </div>
 
-## Selected Projects
+---
+
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/aryansharma16/algoforge-frontend">AlgoForge — DSA Learning Tracker</a></h3>
-      A learning-tracker application for organizing interview preparation, tracking topics and problems, and recording attempts.
-      <p><b>Frontend:</b> React, Redux Toolkit Query, React Router, Tailwind CSS</p>
-      <p><a href="https://github.com/aryansharma16/algoforge-frontend">Frontend repository →</a></p>
-      <p><a href="https://github.com/aryansharma16/algoforge-backend">Backend repository →</a></p>
+      <h3>🚗 <a href="https://github.com/aryansharma16/parkmesh">ParkMesh</a></h3>
+      <strong>Peer-to-peer parking marketplace</strong>
+      <p>A Java and Spring Boot microservices project exploring the architecture of a parking marketplace.</p>
+      <p><strong>Focus:</strong> Java, Spring Boot, service-oriented architecture</p>
+      <a href="https://github.com/aryansharma16/parkmesh">Explore repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/aryansharma16/taskmanager-backend">Task Manager Backend</a></h3>
-      A Node.js and Express backend project exploring task workflows, authentication, workspace separation, and role-based access control.
-      <p><b>Technologies:</b> Node.js, Express, MongoDB, JWT</p>
-      <p><a href="https://github.com/aryansharma16/taskmanager-backend">Explore repository →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/aryansharma16/SmartCart_frontend">SmartCart — E-commerce</a></h3>
-      A React-based e-commerce project focused on product browsing and application workflows.
-      <p><a href="https://github.com/aryansharma16/SmartCart_frontend">Frontend →</a></p>
-      <p><a href="https://github.com/aryansharma16/SmartCart_backend">Backend →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/aryansharma16?tab=repositories">More projects</a></h3>
-      Browse my repositories for additional full-stack applications, backend APIs, and development work.
-      <p><a href="https://github.com/aryansharma16?tab=repositories">View all repositories →</a></p>
+      <h3>🧠 <a href="https://github.com/aryansharma16/dsa-prep-maang">Ember — Interview Preparation Platform</a></h3>
+      <strong>DSA and system design practice</strong>
+      <p>A full-stack interview-preparation platform with 1,700+ problems, 205 reference topics across four curriculums, an interactive system-design whiteboard, and an AI assistant.</p>
+      <p><strong>Stack:</strong> React, Node.js, MongoDB, AWS EC2</p>
+      <a href="https://github.com/aryansharma16/dsa-prep-maang">Explore repository →</a> · <a href="https://dsa-prep-maang.vercel.app">Live platform →</a>
     </td>
   </tr>
 </table>
 
+## Engineering Highlights
+
+- **Multi-tenant authorization:** Designed an RBAC platform with 344 action-level permissions across 45 modules, supporting 1,000+ users in 9 organizations and 24 schools.
+- **Analytics at scale:** Built 9 analytics REST APIs over 1.1M+ leads, with Redis-cached query latency reported at 2–5 ms.
+- **Payment reliability:** Integrated Razorpay with idempotent payment capture and webhook reconciliation; supported 690+ online payments.
+- **Event operations:** Helped deliver 6,700+ registrations and 850+ paid bookings across two events, with INR 4.6M+ in revenue processed by the platform.
+- **Asynchronous workflows:** Built BullMQ and Redis scheduling for campaign and post-payment email workflows.
+
 ## GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aryansharma16&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryansharma16&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight&amp;langs_count=6" alt="Most used languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=aryansharma16&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aryansharma16&show_icons=true&hide_border=true&theme=tokyonight)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryansharma16&layout=compact&hide_border=true&theme=tokyonight&langs_count=6)
+
+![Contribution streak](https://streak-stats.demolab.com?user=aryansharma16&theme=tokyonight&hide_border=true)
+
 </div>
-
-## Current Focus
-
-- Designing maintainable backend APIs and data models
-- Learning Java and Spring Boot by building projects
-- Practicing DSA and system design fundamentals
 
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aryan-sharma2002/">LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/aryansharma16">GitHub</a>
-  <p><sub>Build with purpose. Learn continuously. Engineer thoughtfully.</sub></p>
+
+**Interested in backend engineering, scalable product architecture, and reliable distributed systems.**
+
+[LinkedIn](https://www.linkedin.com/in/aryan-sharma2002/) · [GitHub repositories](https://github.com/aryansharma16?tab=repositories) · [LeetCode](https://leetcode.com/u/AryanDevExpert/)
+
+<sub>Build with purpose. Learn continuously. Engineer thoughtfully.</sub>
+
 </div>
