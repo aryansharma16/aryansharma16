@@ -1,8 +1,8 @@
 <!-- Profile README: keep image URLs in Markdown syntax to avoid HTML attribute parsing issues. -->
 
-<div align="center">
-
 ![Aryan Sharma — Software Engineer](https://capsule-render.vercel.app/api?type=wave&color=0:0B1020,50:172554,100:312E81&height=220&section=header&text=Aryan%20Sharma&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Engineering%20%7C%20Full-Stack%20Development&descSize=16&descAlignY=60)
+
+<div align="center">
 
 **Full Stack Software Developer | Node.js · React · TypeScript · PostgreSQL · AWS**
 
@@ -30,11 +30,7 @@ At Masters' Union, I work across multi-tenant access control, analytics APIs, pa
 
 ## Tech Stack
 
-<div align="center">
-
 ![Tech stack](https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,redux,html,css,tailwind,postgres,mongodb,redis,java,spring,docker,aws,git,github&perline=10)
-
-</div>
 
 ---
 
@@ -69,15 +65,11 @@ At Masters' Union, I work across multi-tenant access control, analytics APIs, pa
 
 ## GitHub Activity
 
-<div align="center">
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aryansharma16&show_icons=true&hide_border=true&theme=tokyonight)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryansharma16&layout=compact&hide_border=true&theme=tokyonight&langs_count=6)
 
 ![Contribution streak](https://streak-stats.demolab.com?user=aryansharma16&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
