@@ -79,6 +79,9 @@ At Masters' Union, I work across multi-tenant access control, analytics APIs, pa
 
 [LinkedIn](https://www.linkedin.com/in/aryan-sharma2002/) · [GitHub repositories](https://github.com/aryansharma16?tab=repositories) · [LeetCode](https://leetcode.com/u/AryanDevExpert/)
 
+![GitHub contribution snake — light](https://raw.githubusercontent.com/aryansharma16/aryansharma16/output/github-snake.svg#gh-light-mode-only)
+![GitHub contribution snake — dark](https://raw.githubusercontent.com/aryansharma16/aryansharma16/output/github-snake-dark.svg#gh-dark-mode-only)
+
 <sub>Build with purpose. Learn continuously. Engineer thoughtfully.</sub>
 
 </div>
